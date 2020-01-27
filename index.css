@@ -1,0 +1,22 @@
+*{
+    align-content: center;
+}
+div.center{
+    text-align: center;
+    align:center;
+    padding-top: 15%; 
+}
+.h2{
+    align: center;
+}
+.img{
+    height: 10px;
+}
+p.Par {
+    display: inline;
+    font-size: 30px;
+}
+img.la{
+    position: absolute;
+    right: 0px;
+}
